@@ -1,0 +1,4 @@
+RemoveDynamicRegistrar:false
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/DevOps.app:/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/mtouch-cache/1-Link/DevOps.exe
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/DevOps.app:/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/mtouch-cache/1-Link/mscorlib.dll
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/DevOps.app:/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/mtouch-cache/1-Link/Xamarin.iOS.dll

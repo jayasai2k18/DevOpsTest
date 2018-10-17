@@ -1,0 +1,12 @@
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/DevOps.exe
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/DevOps.pdb
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/actool/_PartialAppManifest.items
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/coremlc/_PartialAppManifest.items
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/optimized/
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/DevOps.csprojAssemblyReference.cache
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/DevOps.csproj.CoreCompileInputs.cache
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/DevOps.exe
+/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/DevOps.pdb

@@ -1,0 +1,21 @@
+--cache=/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/mtouch-cache
+--sim=/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/DevOps.app
+--executable=DevOps
+--debug
+--linksdkonly
+"--sdkroot=/Applications/Xcode 2.app/Contents/Developer"
+--sdk=10.3
+--targetver=9.0
+--aot-options=-O=-float32
+--http-message-handler=NSUrlSessionHandler
+--abi=x86_64
+--symbollist=/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/obj/iPhoneSimulator/Debug/device-builds/iphone9.2-10.3.1/mtouch-symbols.list
+--dsym=no
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
+-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
+--target-framework=Xamarin.iOS,v1.0
+--root-assembly=/Users/delegate/Documents/Workspace/Gerber_technology/DevOps/DevOps/DevOps/bin/iPhoneSimulator/Debug/DevOps.exe
+
